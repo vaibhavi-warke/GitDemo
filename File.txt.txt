@@ -1,3 +1,9 @@
-Chnage-> Login feature updated here 
 
-Chnage for bug 2
+Change-> Login feature updated here 
+
+Change -> for bug 2
+
+Change 1 -> Login feature updated here by teammate
+
+Change 2 -> fix bug2 by teammate
+
