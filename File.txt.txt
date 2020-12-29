@@ -1,9 +1,11 @@
-
+Hello world!
 Change-> Login feature updated here 
 
-Change -> for bug 2
+Change -> For bug 2
 
 Change 1 -> Login feature updated here by teammate
 
 Change 2 -> fix bug2 by teammate
+
+Change 3-> Added caps in each line first letter and change for CR1 by team mate
 
